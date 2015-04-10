@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace _2_2
 {
+
     public partial class Frm_Main : Form
     {
         public Frm_Main()
